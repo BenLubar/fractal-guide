@@ -1,0 +1,49 @@
+# The daily tier-based fractal *filenames*.
+# The first day of the cycle in this file is January 1st 1970,
+# unlike the Wiki where that day would be number 10.
+
+- a: snowblind
+  b: solid-ocean
+  c: nightmare
+- a: chaos
+  b: uncategorized
+  c: urban-battleground
+- a: cliffside
+  b: molten-furnace
+  c: deepstone
+- a: molten-boss
+  b: twilight-oasis
+  c: underground-facility
+- a: volcanic
+  b: swampland
+  c: shattered-observatory
+- a: snowblind
+  b: thaumanova-reactor
+  c: aquatic-ruins
+- a: solid-ocean
+  b: underground-facility
+  c: urban-battleground
+- a: aetherblade
+  b: chaos
+  c: nightmare
+- a: cliffside
+  b: molten-boss
+  c: mai-trin
+- a: swampland
+  b: solid-ocean
+  c: deepstone
+- a: urban-battleground
+  b: shattered-observatory
+  c: molten-boss
+- a: nightmare
+  b: snowblind
+  c: volcanic
+- a: aetherblade
+  b: uncategorized
+  c: thaumanova-reactor
+- a: twilight-oasis
+  b: cliffside
+  c: chaos
+- a: underground-facility
+  b: deepstone
+  c: mai-trin

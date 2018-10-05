@@ -1,0 +1,49 @@
+# The daily recommended fractal *scale numbers*.
+# The first day of the cycle in this file is January 1st 1970,
+# unlike the Wiki where that day would be number 10.
+
+- t1: 19
+  t2: 29
+  t3: 66
+- t1: 15
+  t2: 41
+  t3: 60
+- t1: 24
+  t2: 35
+  t3: 75
+- t1: 25
+  t2: 36
+  t3: 69
+- t1: 3
+  t2: 40
+  t3: 67
+- t1: 8
+  t2: 31
+  t3: 54
+- t1: 11
+  t2: 39
+  t3: 59
+- t1: 18
+  t2: 27
+  t3: 64
+- t1: 12
+  t2: 30
+  t3: 58
+- t1: 16
+  t2: 37
+  t3: 72
+- t1: 5
+  t2: 48
+  t3: 73
+- t1: 2
+  t2: 33
+  t3: 53
+- t1: 6
+  t2: 28
+  t3: 61
+- t1: 10
+  t2: 32
+  t3: 65
+- t1: 14
+  t2: 34
+  t3: 75
