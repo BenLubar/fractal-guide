@@ -5,8 +5,8 @@ rvm:
 - 2.4.1
 cache: bundler
 script:
-- jekyll build
-- htmlproofer ./_site
+- bundle exec jekyll build
+- bundle exec htmlproofer ./_site --disable-external
 branches:
   only:
   - master
