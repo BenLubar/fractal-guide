@@ -1,0 +1,15 @@
+# Site settings
+title: Ben Lubar's Non-Judgemental Fractal Guide for Complete Idiots
+email: fractals-feedback@lubar.me
+description: >
+  A non-judgemental guide to Guild Wars 2's "Fractals of the Mists"
+  endgame content. Suitable for players of all ages and skill levels.
+baseurl: ""
+url: "https://fractals.lubar.me"
+twitter_username: BenLubar
+github_username:  BenLubar
+
+# Build settings
+markdown: kramdown
+exclude:
+- vendor
