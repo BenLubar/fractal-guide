@@ -4,8 +4,6 @@ sudo: false
 rvm:
 - 2.4.1
 cache: bundler
-install:
-- gem install github-pages jekyll html-proofer
 script:
 - jekyll build
 - htmlproofer ./_site
