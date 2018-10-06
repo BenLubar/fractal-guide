@@ -1,5 +1,4 @@
-# Site settings
-title: Ben Lubar's Non-Judgemental Fractal Guide for Complete Idiots
+title: Ben Lubar’s Non-Judgemental Fractal Guide for Complete Idiots
 email: fractals-feedback@lubar.me
 description: >
   A non-judgemental guide to Guild Wars 2's "Fractals of the Mists"
@@ -8,10 +7,16 @@ baseurl: ""
 url: "https://fractals.lubar.me"
 twitter_username: BenLubar
 github_username:  BenLubar
-theme: jekyll-theme-minimal
+repository: BenLubar/fractal-guide
+theme: jekyll-theme-primer
 google_analytics: UA-41367436-1
-
-# Build settings
-markdown: kramdown
+collections:
+  fractals:
+    output: true
+  mechanics:
+    output: true
 exclude:
 - vendor
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap

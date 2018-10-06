@@ -2,6 +2,16 @@
 layout: default
 ---
 
-# Coming soon
+# Ben Lubar's Non-Judgemental Fractal Guide for Complete Idiots
 
-*This is a test.*
+*Working Draft*
+
+## Fractals
+
+{% for fractal in site.fractals %}
+- [{{ fractal.title }}]({{fractal.url}}){% endfor %}
+
+## Mechanics
+
+{% for mechanic in site.mechanics %}
+- [{{ mechanic.title }}]({{mechanic.url}}){% endfor %}
