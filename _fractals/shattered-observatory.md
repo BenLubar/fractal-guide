@@ -40,6 +40,6 @@ layout: default
 Blinded with Science](https://wiki.guildwars2.com/wiki/Shattered_Observatory_Fractal_(achievements)#Blinded_with_Science).
 - The scary floating eye continues to be very frightening.
 - Please continue to not explode outside of the designated explosion area.
-- Your [special action skil](/mechanics/special-action-skill.html) is quite [stunning](/mechanics/crowd-control.html).
+- Your [special action skill](/mechanics/special-action-skill.html) is quite [stunning](/mechanics/crowd-control.html).
 - The arrows are liars! Forget what I said earlier. DO NOT TRUST THE ARROWS.
 - The challenge mode version of Arkk is named Arkk.
